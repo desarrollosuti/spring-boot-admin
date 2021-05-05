@@ -15,6 +15,6 @@ eureka:
     registerWithEureka: true
     fetchRegistry: true
     serviceUrl:
-      defaultZone: http://alejandromarin.ddns.net:8761/eureka
+      defaultZone: http://181.49.117.46:8761/eureka
   instance:
-    hostname: alejandromarin.ddns.net
+    hostname: 181.49.117.46
